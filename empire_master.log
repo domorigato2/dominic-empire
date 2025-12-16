@@ -1,0 +1,44 @@
+[21:40:39] EMPIRE MASTER v4 LAUNCHED — VENV AUTO, ALL HUSTLE
+[21:41:00] RUNNING MAIN.PY — EMPIRE MODE
+[02:09:20] EMPIRE MASTER v4 LAUNCHED — VENV AUTO, ALL HUSTLE
+[02:09:54] EMPIRE MASTER v4 LAUNCHED — VENV AUTO, ALL HUSTLE
+[02:14:44] EMPIRE MASTER v4 LAUNCHED — VENV AUTO, ALL HUSTLE
+[02:15:54] RUNNING JOB_SCRAPER.PY — EMPIRE MODE
+[02:15:54] job_scraper.py CRASHED: Command '['bash', '-c', 'source /home/domorigato2/empire/crypto_empire/bin/activate && python3 /home/domorigato2/projects/bots/job_scraper.py']' returned non-zero exit status 1.
+[02:22:34] EMPIRE MASTER v4.1 LAUNCHED — ENCODING FIXED, ALL HUSTLE
+[02:22:48] CLEANED BOM from /home/domorigato2/projects/bots/job_scraper.py
+[02:22:48] RUNNING JOB_SCRAPER.PY — EMPIRE MODE
+[02:22:48] job_scraper.py CRASHED: Command '['bash', '-c', 'source /home/domorigato2/empire/crypto_empire/bin/activate && python3 /home/domorigato2/projects/bots/job_scraper.py']' returned non-zero exit status 1.
+[02:26:29] EMPIRE MASTER v4.2 LAUNCHED — FILE CLEAN + RETRY, ALL HUSTLE
+[02:26:39] CLEANED /home/domorigato2/projects/bots/job_scraper.py — null bytes gone
+[02:26:39] RUNNING JOB_SCRAPER.PY — EMPIRE MODE (attempt 1)
+[02:26:40] job_scraper.py CRASHED: Command '['bash', '-c', 'source /home/domorigato2/empire/crypto_empire/bin/activate && python3 /home/domorigato2/projects/bots/job_scraper.py']' returned non-zero exit status 1. (attempt 1)
+[02:26:40] CLEANED /home/domorigato2/projects/bots/job_scraper.py — null bytes gone
+[02:26:40] RUNNING JOB_SCRAPER.PY — EMPIRE MODE (attempt 2)
+[02:26:40] job_scraper.py CRASHED: Command '['bash', '-c', 'source /home/domorigato2/empire/crypto_empire/bin/activate && python3 /home/domorigato2/projects/bots/job_scraper.py']' returned non-zero exit status 1. (attempt 2)
+[02:26:40] job_scraper.py FAILED AFTER 2 ATTEMPTS
+[02:28:56] EMPIRE MASTER v4.3 LAUNCHED — BS4 AUTO + RETRY, ALL HUSTLE
+[02:29:13] INSTALLED beautifulsoup4 — READY TO ROLL
+[02:29:13] RUNNING JOB_SCRAPER.PY — EMPIRE MODE (attempt 1)
+[02:29:13] job_scraper.py DONE — CHECK LOGS
+[02:32:24] EMPIRE MASTER v4.3 LAUNCHED — BS4 AUTO + RETRY, ALL HUSTLE
+[02:32:55] EMPIRE MASTER v4.3 LAUNCHED — BS4 AUTO + RETRY, ALL HUSTLE
+[02:33:29] EMPIRE MASTER v4.3 LAUNCHED — BS4 AUTO + RETRY, ALL HUSTLE
+[21:25:08] EMPIRE MASTER v4.4 LAUNCHED — INPUT VALIDATION, ALL HUSTLE
+[21:25:36] INSTALLED beautifulsoup4 — READY TO ROLL
+[21:25:36] RUNNING JOB_SCRAPER.PY — EMPIRE MODE (attempt 1)
+[21:25:47] job_scraper.py CRASHED: Command '['bash', '-c', 'source /home/domorigato2/empire/crypto_empire/bin/activate && python3 /home/domorigato2/projects/bots/job_scraper.py']' returned non-zero exit status 1. (attempt 1)
+[21:25:58] INSTALLED beautifulsoup4 — READY TO ROLL
+[21:25:58] RUNNING JOB_SCRAPER.PY — EMPIRE MODE (attempt 2)
+[21:26:09] job_scraper.py CRASHED: Command '['bash', '-c', 'source /home/domorigato2/empire/crypto_empire/bin/activate && python3 /home/domorigato2/projects/bots/job_scraper.py']' returned non-zero exit status 1. (attempt 2)
+[21:26:09] job_scraper.py FAILED AFTER 2 ATTEMPTS
+[21:31:45] EMPIRE MASTER v4.4 LAUNCHED — INPUT VALIDATION, ALL HUSTLE
+[21:32:20] INSTALLED beautifulsoup4 — READY TO ROLL
+[21:32:20] RUNNING JOB_SCRAPER.PY — EMPIRE MODE (attempt 1)
+[21:32:30] job_scraper.py CRASHED: Command '['bash', '-c', 'source /home/domorigato2/empire/crypto_empire/bin/activate && python3 /home/domorigato2/projects/bots/job_scraper.py']' returned non-zero exit status 1. (attempt 1)
+[21:32:41] INSTALLED beautifulsoup4 — READY TO ROLL
+[21:32:41] RUNNING JOB_SCRAPER.PY — EMPIRE MODE (attempt 2)
+[21:32:51] job_scraper.py CRASHED: Command '['bash', '-c', 'source /home/domorigato2/empire/crypto_empire/bin/activate && python3 /home/domorigato2/projects/bots/job_scraper.py']' returned non-zero exit status 1. (attempt 2)
+[21:32:51] job_scraper.py FAILED AFTER 2 ATTEMPTS
+[12:04:03] EMPIRE MASTER v4.4 LAUNCHED — INPUT VALIDATION, ALL HUSTLE
+[16:54:05] EMPIRE MASTER v4.4 LAUNCHED — INPUT VALIDATION, ALL HUSTLE
