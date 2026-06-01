@@ -3,7 +3,7 @@
 
 def calculate_gap():
     target = 1000.00
-    current_balance =620.21 # Update this to your exact PayPal/Heartland balance
+    current_balance =640.25 # Update this to your exact PayPal/Heartland balance
     
     gap = target - current_balance
     mowing_price = 25.00
